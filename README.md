@@ -11,4 +11,4 @@ HON-platform (Human Open Network Platform) - социальная сеть с о
 | Мобильное приложение | React Native |
 
 Документация по проекту:
-1. Техническое задание на разработку: [technical-specifications.md](docs\technical-specifications.md)
+1. Бизнес-требования к MVP: [business-requirements.md](docs/mvp/business-requirements.md)
