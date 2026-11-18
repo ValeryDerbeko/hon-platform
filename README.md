@@ -12,3 +12,4 @@ HON-platform (Human Open Network Platform) - социальная сеть с о
 
 Документация по проекту:
 1. Бизнес-требования к MVP: [business-requirements.md](docs/mvp/business-requirements.md)
+2. Архитектура фронтенда: [frontend.md](docs/architecture/frontend.md)
